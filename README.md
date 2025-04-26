@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on worldwide apps
 - 📫 How to reach me (rimshamughal2008@gmail.com)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm not serious enough, but! I treat people how they treat me.
+  
 
 <!---
 Rimsha-Mughal/Rimsha-Mughal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
